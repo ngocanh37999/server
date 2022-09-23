@@ -6,12 +6,11 @@ const config = {
   initialDatabase: {
     access_tokens: [],
     refresh_tokens: [],
-    users: [
-      {
-        email: "admin999@gmail.com",
-        password: "admin999",
-      },
-    ],
+    users: {
+      email: "admin999@gmail.com",
+      password: "admin999",
+    },
+
     products: [
       {
         id: 1,
