@@ -1,5 +1,5 @@
 const config = {
-  port: process.env.PORT || 8000,
+  port: process.env.PORT || 5000,
   jwt_secret_key: "ngocanh",
   jwt_expire_access_token: 10, // 10 second
   jwt_expire_refresh_token: "1h", // 1 hour
