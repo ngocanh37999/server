@@ -8,8 +8,8 @@ const config = {
     refresh_tokens: [],
     users: [
       {
-        username: "admin",
-        password: "admin",
+        username: "admin999@gmail.com",
+        password: "admin999",
       },
     ],
     products: [
